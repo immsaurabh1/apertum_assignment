@@ -1,0 +1,15 @@
+.card-container {
+  border: 1px solid #dcdcdc;
+  padding: 8px;
+  border-radius: 4px;
+  display: inline-block;
+  width: 400px;
+  box-shadow: 0px 2px 4px 1px #dcdcdc;
+  margin: 4px;
+}
+.card-container span {
+  display: block;
+  font-size: 10px;
+  font-weight: bold;
+  padding-bottom: 4px;
+}
